@@ -8,3 +8,6 @@ For the meta-analytic networks, the coordinates used for generating the nodes ha
 
 Our predictive modeling is based on a relevance vector machine (RVM) (Tipping, 2001) as implemented in the SparseBayes package (http://www.miketipping.com/index.htm). The RVM refers to a specialization of the general Bayesian framework which has an identical functional form to the support vector machine (SVM). To use  and add to your working directory. 
 10-fold cross-validation (stratified for site), leave-one-site-out cross-validation, as well as training models within-sample and then validate in independent samples 
+
+
+References
