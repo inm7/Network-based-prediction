@@ -1,7 +1,7 @@
 # Network-based-prediction
 
 
-# Meta-analytic networks 
+## Meta-analytic networks 
 The coordinates used for generating the nodes have been reported in the source meta-analytic publications. Here we moreover provide text files containing the peak-activation coordinates for each of the 17 networks investigated in the present work as well as the NIFTI images denoting the node-locations.
 
 ![Image text](https://github.com/JiAllen/Network-based-prediction/raw/master/Image/NetworkExamples.tif)
