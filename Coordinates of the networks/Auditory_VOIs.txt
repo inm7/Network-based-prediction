@@ -1,0 +1,12 @@
+-40	-26	10	lTEG
+60	-20	10	rSTG
+-50	2	-6	lSTG
+-44	-50	-32	lCrus1
+28	-38	-28	rLobuleV
+26	-76	-36	rCrus1
+-20	-50	-22	lLobuleV
+4	-82	-32	rCrus2
+34	38	12	rMFG
+36	18	4	rAnterIns
+48	-46	46	rIPL
+
