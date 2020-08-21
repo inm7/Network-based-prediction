@@ -1,5 +1,13 @@
 # Network-based-prediction
 
+## Introduction
+
+This work is dedicated to investigate the predictive relationship 
+and we employed 17 meta-analytically defined task-specific networks covering a broad range of domains including executive, socal, affective, and motor functions. 
+Intrinsic connectivity within each of the networks 
+through a strigent three-step validation procedure, including 10-fold and . 
+The identified networks are moreover linked to neurotransmitter receptor/transport distrubution patterns via spatial correlation analysis. 
+Overall, we provided a integreted link from symptomatology to molecular architecture. 
 
 ## Meta-analytic networks 
 The coordinates used for generating the nodes have been reported in the source meta-analytic publications. Here we moreover provide text files containing the peak-activation coordinates for each of the 17 networks investigated in the present work as well as the NIFTI images denoting the node-locations.
