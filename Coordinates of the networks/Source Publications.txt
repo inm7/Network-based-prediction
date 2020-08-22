@@ -1,7 +1,7 @@
-Emotional scene and face processing£º
+Emotional scene and face processingÂ£Âº
 Sabatinelli D, Fortune EE, Li Q, Siddiqui A, Krafft C, Oliver WT, et al. (2011): Emotional perception: meta-analyses of face and natural scene processing. NeuroImage 54(3): 2524-2533. 
 
-Reward-related decision making£º
+Reward-related decision makingÂ£Âº
 Liu X, Hairston J, Schrier M, Fan J (2011): Common and distinct networks underlying reward valence and processing stages: a meta-analysis of functional neuroimaging studies. Neurosci Biobehav Re 35(5): 1219-1236. 
 
 Cognitive emotion regulation:
@@ -19,16 +19,17 @@ Bzdok D, Schilbach L, Vogeley K, Schneider K, Laird AR, Langner R, Eickhoff SB (
 Extend soco-affective default:
 Amft M, Bzdok D, Laird AR, Fox PT, Schilbach L, Eickhoff SB (2015): Definition and characterization of an extended social-affective default network. Brain Struct Funct 220(2): 1031-1049.
 
-Default mode network:
+Default mode network: 
 Laird AR, Eickhoff SB, Li K, Robin DA, Glahn DC, Fox PT (2009): Investigating the functional heterogeneity of the default mode network using coordinate-based meta-analytic modeling. J Neurosci 29(46): 14496-14505.
 
-Vigilant attention:Langner R, Eickhoff SB (2013): Sustaining attention to simple tasks: a meta-analytic review of the neural mechanisms of vigilant attention. Psychol Bull 139(4): 870-900.
+Vigilant attention:
+Langner R, Eickhoff SB (2013): Sustaining attention to simple tasks: a meta-analytic review of the neural mechanisms of vigilant attention. Psychol Bull 139(4): 870-900.
 
 Cognitive action control:
 Cieslik EC, Mueller VI, Eickhoff CR, Langner R, Eickhoff SB (2015): Three key regions for supervisory attentional control: evidence from neuroimaging meta-analyses. Neurosci Biobehav Rev 48: 22-34. 
 
 Extend multi-demand network:
-Camilleri J A, M¨¹ller VI, Fox P, Laird AR, Hoffstaedter F, Kalenscher T, Eickhoff SB (2018): Definition and characterization of an extended multiple-demand network. NeuroImage 165: 138-147.
+Camilleri J A, MÂ¨Â¹ller VI, Fox P, Laird AR, Hoffstaedter F, Kalenscher T, Eickhoff SB (2018): Definition and characterization of an extended multiple-demand network. NeuroImage 165: 138-147.
 
 Working memory:
 Rottschy C, Langner R, Dogan I, Reetz K, Laird AR, Schulz JB, et al. Modelling neural correlates of working memory: a coordinate-based meta-analysis. NeuroImage 60(1): 830-846. 
