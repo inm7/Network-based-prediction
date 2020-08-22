@@ -1,0 +1,11 @@
+-4	-58	44	lPreCun
+-4	-52	22	lPCC
+2	32	-8	lvACC
+52	-28	24	rIPL
+-2	50	18	rMPC
+46	-66	16	rMTG
+-26	16	44	lMFG
+-56	-36	28	lIPL
+-42	-66	18	lMTG
+
+

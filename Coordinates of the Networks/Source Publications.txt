@@ -1,0 +1,53 @@
+Emotional scene and face processing£º
+Sabatinelli D, Fortune EE, Li Q, Siddiqui A, Krafft C, Oliver WT, et al. (2011): Emotional perception: meta-analyses of face and natural scene processing. NeuroImage 54(3): 2524-2533. 
+
+Reward-related decision making£º
+Liu X, Hairston J, Schrier M, Fan J (2011): Common and distinct networks underlying reward valence and processing stages: a meta-analysis of functional neuroimaging studies. Neurosci Biobehav Re 35(5): 1219-1236. 
+
+Cognitive emotion regulation:
+Buhle JT, Silvers JA, Wager TD, Lopez R, Onyemekwu C, Kober H ,et al. (2014): Cognitive reappraisal of emotion: a meta-analysis of human neuroimaging studies. Cereb Cortex 24(11): 2981-2990. 
+
+Empathy:
+Bzdok D, Schilbach L, Vogeley K, Schneider K, Laird AR, Langner R, Eickhoff SB (2012): Parsing the neural correlates of moral cognition: ALE meta-analysis on morality, theory of mind, and empathy. Brain Struct Funct 217(4): 783-796. 
+
+Mirror neuron system:
+Caspers S, Zilles K, Laird AR, Eickhoff SB (2010): ALE meta-analysis of action observation and imitation in the human brain. NeuroImage 50(3): 1148-1167. 
+
+Theory of mind:
+Bzdok D, Schilbach L, Vogeley K, Schneider K, Laird AR, Langner R, Eickhoff SB (2012): Parsing the neural correlates of moral cognition: ALE meta-analysis on morality, theory of mind, and empathy. Brain Struct Funct 217(4): 783-796. 
+
+Extend soco-affective default:
+Amft M, Bzdok D, Laird AR, Fox PT, Schilbach L, Eickhoff SB (2015): Definition and characterization of an extended social-affective default network. Brain Struct Funct 220(2): 1031-1049.
+
+Default mode network: 
+Laird AR, Eickhoff SB, Li K, Robin DA, Glahn DC, Fox PT (2009): Investigating the functional heterogeneity of the default mode network using coordinate-based meta-analytic modeling. J Neurosci 29(46): 14496-14505.
+
+Vigilant attention:
+Langner R, Eickhoff SB (2013): Sustaining attention to simple tasks: a meta-analytic review of the neural mechanisms of vigilant attention. Psychol Bull 139(4): 870-900.
+
+Cognitive action control:
+Cieslik EC, Mueller VI, Eickhoff CR, Langner R, Eickhoff SB (2015): Three key regions for supervisory attentional control: evidence from neuroimaging meta-analyses. Neurosci Biobehav Rev 48: 22-34. 
+
+Extend multi-demand network:
+Camilleri J A, M¨¹ller VI, Fox P, Laird AR, Hoffstaedter F, Kalenscher T, Eickhoff SB (2018): Definition and characterization of an extended multiple-demand network. NeuroImage 165: 138-147.
+
+Working memory:
+Rottschy C, Langner R, Dogan I, Reetz K, Laird AR, Schulz JB, et al. Modelling neural correlates of working memory: a coordinate-based meta-analysis. NeuroImage 60(1): 830-846. 
+
+Semantic memory:
+Binder JR, Desai RH, Graves WW, Conant LL (2009): Where Is the Semantic System? A Critical Review and Meta-Analysis of 120 Functional Neuroimaging Studies. Cereb Cortex 19(12): 2767-2796. 
+
+Speech production:
+Adank P (2012): The neural bases of difficult speech comprehension and speech production: Two Activation Likelihood Estimation (ALE) meta-analyses. Brain Lang 22(1): 42-54.
+
+Autobiographic memory:
+Spreng RN, Mar RA, Kim ASN (2009): The common neural basis of autobiographical memory, prospection, navigation, theory of mind, and the default mode: a quantitative meta-analysis. J Cogn Neurosci 21(3): 489-510.  
+
+Motor:
+Witt ST, Meyerand ME, Laird AR (2008): Functional neuroimaging correlates of finger tapping task variations: An ALE meta-analysis. NeuroImage 42(1): 343-356.
+
+Auditory processing:
+Petacchi A, Laird A , Fox PT, Bower JM (2005): Cerebellum and auditory function: An ALE meta-analysis of functional neuroimaging studies. Hum Brain Mapp 25(1): 118-128.
+
+
+
