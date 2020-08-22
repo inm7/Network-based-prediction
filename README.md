@@ -28,11 +28,11 @@ Examples:
 
 ## References
 
-Chen J, Mueller VI, Dukart J, Hoffstaedter F, Baker JT, Holmes AJ, et al. Connectivity patterns of task-specific brain networks allow individual prediction of cognitive symptom dimension of schizophrenia and link to molecular architecture. bioRxiv. 2020 .
+Chen J, Mueller VI, Dukart J, Hoffstaedter F, Baker JT, Holmes AJ, et al. (2020): Connectivity patterns of task-specific brain networks allow individual prediction of cognitive symptom dimension of schizophrenia and link to molecular architecture. bioRxiv doi: https://doi.org/10.1101/2020.07.02.185124.
 
 Chen J, Patil K R, Weis S, Sim K, Nickl-Jockschat T, Zhou J, et al. (2020): Neurobiological Divergence of the Positive and Negative Schizophrenia Subtypes Identified on a New Factor Structure of Psychopathology Using Non-negative Factorization: An International Machine Learning Study. Biol Psychiatry 87(3): 282-293 
 
 Tipping ME (2001): Sparse Bayesian learning and the relevance vector machine. J Mach Learn Res 1: 211-244. 
 
-Dukart J, Holiga S, Rullmann M, Lanzenberger R, Hawkins PCT, Mehta MA, et al. (2020): JuSpace: A tool for spatial correlation analyses of magnetic resonance imaging data with nuclear imaging derived neurotransmitter maps. bioRxiv doi: 10.1101/2020.04.17.046300. 
+Dukart J, Holiga S, Rullmann M, Lanzenberger R, Hawkins PCT, Mehta MA, et al. (2020): JuSpace: A tool for spatial correlation analyses of magnetic resonance imaging data with nuclear imaging derived neurotransmitter maps. bioRxiv doi: https://doi.org/10.1101/2020.04.17.046300. 
 
