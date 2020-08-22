@@ -2,13 +2,7 @@
 
 ## Introduction
 
-This work is dedicated to investigate the predictive relationship 
-and we employed 17 meta-analytically defined task-specific networks covering a broad range of domains including executive, socal, affective, and motor functions. 
-Intrinsic connectivity within each of the networks 
-through a strigent three-step validation procedure, including 10-fold and . 
-Machine-learning approaches with a stringent validation sequence of 10-fold cross-validation, leave-one-site-out analyses, and generalization to an independent sample was implemented to identify robust association patterns between the probed networks and the four dimensions of psychopathology (6). Subsequently, whole-brain density maps of nine receptors/transporters from prior in vivo molecular imaging studies were employed to investigate the molecular architecture spatially coupled to the identified predictive networks.
-The identified networks are moreover linked to neurotransmitter receptor/transport distrubution patterns via spatial correlation analysis. 
-Overall, we provided a integreted link from symptomatology to molecular architecture. 
+This work is dedicated to investigate whether individual dimensions of psychopathology are associated with the inter-individual variability in brain functional connections within different networks in schizophrenia (Chen et al., 2020a). Specifically, 17 meta-analytically defined task-specific networks which cover a broad range of domains reflecting executive, social, affective, memory, language, and sensory-motor functions are employed. Hence, the predicted dimensions of psychopathology can be readily linked to specific functional systems and mental processes when analyzing the intrinsic connectivity patterns at resting-state. Four data-driven dimensions of schizophrenia symptomatology (i.e., positive, negative, affective and cognitive) introduced and extensively validated in our recent PANSS-based factorization study (Chen et al., 2020b) were used to depict individual psychopathology. Individual explression along thse four symptom dimensions were predicted using relevance vector machine with the intrisic functional connectivity of each meta-analytic network as the features to assess the predictive relationship between the probed networks and symptoms. Our predictive modeling involves a stringent three-step validation procedure, including 10-fold and leave-one-site-out cross-validations within a multi-site, heterogeneous schizophrenia patient sample and the generalization to an independent sample. To enrich our network-symptom findings, whole-brain density maps of nine receptors/transporters from prior in vivo molecular imaging studies were further employed to investigate the molecular architecture spatially coupled to the identified predictive networks. Overall, we provided an integretive link from symptomatology to molecular basis. 
 
 ## Meta-analytic networks 
 The coordinates used for generating the nodes have been reported in the source meta-analytic publications. Here we moreover provide text files containing the peak-activation coordinates for each of the 17 networks investigated in the present work as well as the NIFTI images denoting the node-locations.
@@ -28,9 +22,9 @@ Examples:
 
 ## References
 
-Chen J, Mueller VI, Dukart J, Hoffstaedter F, Baker JT, Holmes AJ, et al. (2020): Connectivity patterns of task-specific brain networks allow individual prediction of cognitive symptom dimension of schizophrenia and link to molecular architecture. bioRxiv doi: https://doi.org/10.1101/2020.07.02.185124.
+Chen J, Mueller VI, Dukart J, Hoffstaedter F, Baker JT, Holmes AJ, et al. (2020a): Connectivity patterns of task-specific brain networks allow individual prediction of cognitive symptom dimension of schizophrenia and link to molecular architecture. bioRxiv doi: https://doi.org/10.1101/2020.07.02.185124.
 
-Chen J, Patil K R, Weis S, Sim K, Nickl-Jockschat T, Zhou J, et al. (2020): Neurobiological Divergence of the Positive and Negative Schizophrenia Subtypes Identified on a New Factor Structure of Psychopathology Using Non-negative Factorization: An International Machine Learning Study. Biol Psychiatry 87(3): 282-293 
+Chen J, Patil K R, Weis S, Sim K, Nickl-Jockschat T, Zhou J, et al. (2020b): Neurobiological Divergence of the Positive and Negative Schizophrenia Subtypes Identified on a New Factor Structure of Psychopathology Using Non-negative Factorization: An International Machine Learning Study. Biol Psychiatry 87(3): 282-293 
 
 Tipping ME (2001): Sparse Bayesian learning and the relevance vector machine. J Mach Learn Res 1: 211-244. 
 
