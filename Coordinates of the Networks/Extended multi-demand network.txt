@@ -15,4 +15,3 @@
 -46 -60 -10 lITG
 22 6 4 rPutamen
 -10 -16 6 lThal
-
