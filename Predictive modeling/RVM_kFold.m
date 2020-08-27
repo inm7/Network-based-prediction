@@ -1,4 +1,4 @@
-function results = RVM_kFold_Ji(X, y, cvarg, Confound, CovCateIdx, CovSiteIdx)
+function results = RVM_kFold(X, y, cvarg, Confound, CovCateIdx, CovSiteIdx)
 
 %%INPUT
 % X          : A matrix with n rows (observations/subjects) and d columns (features)
